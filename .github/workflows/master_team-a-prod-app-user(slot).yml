@@ -63,4 +63,4 @@ jobs:
           app-name: 'team-a-prod-app-user'
           slot-name: 'slot'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_6A062D264FE6414BB8EA61F744B3712E }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_C2ABB8A6065A4F34B02EC40DBA3BFFE1 }}
